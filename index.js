@@ -15,7 +15,6 @@ function ternaryCheckCity(city){
   else {
     return "No go."}
   }
-
 }
 
 function switchOnCharmFromTip(input){
