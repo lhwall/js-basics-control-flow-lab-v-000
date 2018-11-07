@@ -1,6 +1,6 @@
 // Write your code in this file!
 
-function scuberGreetingForFeet(rideLength){
+function scuberGreetingForFeet(rideLength) {
   if rideLength <= 400
     return "This one's on us!"
   else if rideLength > 2000 && rideLength < 2500
